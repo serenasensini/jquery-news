@@ -41,7 +41,7 @@
                                     $.each(data.responseData.feed.entries, function (i, e) {
                                         // Get the link for the article
                                         var link = e.link.split("&url=");
-                                        console.log(link[1]);
+
                                         // Display the Results to the selected Element
                                         $(el).append('<li class=\"' + options.listClassName + '\">' + '<a href=\"' + link[1] + '\">' + e.title + '</a></li>')
                                     });
