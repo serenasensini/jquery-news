@@ -1,6 +1,6 @@
 #jQuery News
 
-jQuery News is a basic [jQuery](https://github.com/jquery/jquery/) plugin that fetches headlines on a given topic from [Google News](https://news.google.com/) and puts them into the selected class.
+jQuery News is a basic [jQuery](https://github.com/jquery/jquery/) plugin that fetches headlines on a given topic from [Google News](https://news.google.com/) and puts them into the selected class as a `<li>`.
 
 * Thanks to http://jqueryboilerplate.com/ for the plugin template!
 
