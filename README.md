@@ -17,7 +17,7 @@ Here is a demo of the application: [jQuery News Demo](http://smith197.koding.com
 
 ##Usage
 
-1. Include the `jquery.js` in your header. (This has only been tested with version 1.9).
+1. Include the `jquery.js` in your header. (This has only been tested with jQuery version 1.9).
 1. Create a `<ul>` or `<ol>` to put the results in.
 1. Include the `jquery.news.js` file.
 1. Now put the following (Change `.news` to the class of the `<ul>` or `<ol>` you want to put the results in.
