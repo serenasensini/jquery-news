@@ -43,5 +43,3 @@ Here is a demo of the application: [jQuery News Demo](http://smith197.koding.com
             listClassName: 'headlines'
         });
     </script>
-    
-### Thanks for reading!
